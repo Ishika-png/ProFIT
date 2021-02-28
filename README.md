@@ -1,5 +1,6 @@
 # ProFIT
 A fitness app for android devices with several different exercises available. A simple timer for your workouts, built in Java!
+We were confused regarding the accessible equipments for the workout. We read and came to the conclusion to put up the workouts for which little to no equipments are required.
 Following categories are available according to your requirement with a timer feature.
 
     Chest Workout
